@@ -97,6 +97,9 @@ lowest_government_trust_plot + geom_text(size=8,aes(
             hjust = 0.45,vjust =4,color="white") + my_theme
 ```
 
+![](highest_government_trust_plot.png)
+![](lowest_government_trust_plot.png)
+
 #### Güven Korelasyon Matrisi
 
 ```
@@ -146,6 +149,8 @@ subgroup = Regime, label=paste(variable,"\n",value,"%"))) +
                 fontface = "italic")
 ```
 
+![](regime_trusts.png)
+
 #### Yönetim Şekline Göre Ömür Beklentisi İçin Ridge Plot
 
 ```
@@ -177,6 +182,8 @@ theme(
 ) + scale_x_continuous(limits = c(38, 84),
 breaks = seq(38, 84, 2))
 ```
+
+![](health_regime.png)
 
 ### Kaynaklar
 https://ourworldindata.org/grapher/political-regime?tab=chart<br/>
