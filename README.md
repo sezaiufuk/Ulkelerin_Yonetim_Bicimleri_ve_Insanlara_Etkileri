@@ -189,3 +189,6 @@ breaks = seq(38, 84, 2))
 https://ourworldindata.org/grapher/political-regime?tab=chart<br/>
 https://www.kaggle.com/datasets/elmoallistair/global-trust-rate?select=global_trust-rate.csv<br/>
 https://www.kaggle.com/datasets/mathurinache/world-happiness-report
+
+# Poster
+![](research.png)
