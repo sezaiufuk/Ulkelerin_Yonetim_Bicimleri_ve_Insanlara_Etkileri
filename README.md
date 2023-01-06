@@ -111,6 +111,8 @@ ggcorrplot(cor_population_trusts, method ="square",
 type="lower",lab = TRUE,p.mat=corrp.mat,insig="blank",
 colors = my_palette(3),outline.color = my_palette(3)[2],
 show.legend = FALSE,hc.order = TRUE)
+
+![](population_trusts.png)
 ```
 
 #### Güven Yüzdelikleri Ağaç Haritası
