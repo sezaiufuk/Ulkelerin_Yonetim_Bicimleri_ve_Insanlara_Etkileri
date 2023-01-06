@@ -111,9 +111,9 @@ ggcorrplot(cor_population_trusts, method ="square",
 type="lower",lab = TRUE,p.mat=corrp.mat,insig="blank",
 colors = my_palette(3),outline.color = my_palette(3)[2],
 show.legend = FALSE,hc.order = TRUE)
+```
 
 ![](population_trusts.png)
-```
 
 #### Güven Yüzdelikleri Ağaç Haritası
 
@@ -179,6 +179,6 @@ breaks = seq(38, 84, 2))
 ```
 
 ### Kaynaklar
-https://ourworldindata.org/grapher/political-regime?tab=chart
-https://www.kaggle.com/datasets/elmoallistair/global-trust-rate?select=global_trust-rate.csv
+https://ourworldindata.org/grapher/political-regime?tab=chart<br/>
+https://www.kaggle.com/datasets/elmoallistair/global-trust-rate?select=global_trust-rate.csv<br/>
 https://www.kaggle.com/datasets/mathurinache/world-happiness-report
