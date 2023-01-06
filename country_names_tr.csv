@@ -1,0 +1,250 @@
+_key,name,name_tr,continent/code,continent/name,continent/name_tr
+AD,Andorra,Andorra,EU,Europe,Avrupa
+AE,United Arab Emirates,Birleşik Arap Emirlikleri,AS,Asia,Asya
+AF,Afghanistan,Afganistan,AS,Asia,Asya
+AG,Antigua and Barbuda,Antigua ve Barbuda,NA,North America,Kuzey Amerika
+AI,Anguilla,Anguilla,NA,North America,Kuzey Amerika
+AL,Albania,Arnavutluk,EU,Europe,Avrupa
+AM,Armenia,Ermenistan,AS,Asia,Asya
+AO,Angola,Angola,AF,Africa,Afrika
+AR,Argentina,Arjantin,SA,South America,Güney Amerika
+AS,American Samoa,Amerikan Samoası,OC,Oceania,Okyanusya
+AT,Austria,Avusturya,EU,Europe,Avrupa
+AU,Australia,Avustralya,OC,Oceania,Okyanusya
+AW,Aruba,Aruba,NA,North America,Kuzey Amerika
+AX,Åland,Åland,EU,Europe,Avrupa
+AZ,Azerbaijan,Azerbaycan,AS,Asia,Asya
+BA,Bosnia and Herzegovina,Bosna-Hersek,EU,Europe,Avrupa
+BB,Barbados,Barbados,NA,North America,Kuzey Amerika
+BD,Bangladesh,Bangladeş,AS,Asia,Asya
+BE,Belgium,Belçika,EU,Europe,Avrupa
+BF,Burkina Faso,Burkina Faso,AF,Africa,Afrika
+BG,Bulgaria,Bulgaristan,EU,Europe,Avrupa
+BH,Bahrain,Bahreyn,AS,Asia,Asya
+BI,Burundi,Burundi,AF,Africa,Afrika
+BJ,Benin,Benin,AF,Africa,Afrika
+BL,Saint Barthélemy,Saint Barthélemy,NA,North America,Kuzey Amerika
+BM,Bermuda,Bermuda,NA,North America,Kuzey Amerika
+BN,Brunei,Brunei,AS,Asia,Asya
+BO,Bolivia,Bolivya,SA,South America,Güney Amerika
+BQ,Bonaire,Bonaire,NA,North America,Kuzey Amerika
+BR,Brazil,Brezilya,SA,South America,Güney Amerika
+BS,Bahamas,Bahamalar,NA,North America,Kuzey Amerika
+BT,Bhutan,Bhutan,AS,Asia,Asya
+BV,Bouvet Island,Bouvet Adası,AN,Antarctica,Antarktika
+BW,Botswana,Botsvana,AF,Africa,Afrika
+BY,Belarus,Beyaz Rusya,EU,Europe,Avrupa
+BZ,Belize,Belize,NA,North America,Kuzey Amerika
+CA,Canada,Kanada,NA,North America,Kuzey Amerika
+CC,Cocos Islands,Cocos Adaları,AS,Asia,Asya
+CD,Democratic Republic of the Congo,Demokratik Kongo Cumhuriyeti,AF,Africa,Afrika
+CF,Central African Republic,Orta Afrika Cumhuriyeti,AF,Africa,Afrika
+CG,Republic of the Congo,Kongo Cumhuriyeti,AF,Africa,Afrika
+CH,Switzerland,İsviçre,EU,Europe,Avrupa
+CI,Ivory Coast,Fildişi Sahili,AF,Africa,Afrika
+CK,Cook Islands,Cook Adaları,OC,Oceania,Okyanusya
+CL,Chile,Şili,SA,South America,Güney Amerika
+CM,Cameroon,Kamerun,AF,Africa,Afrika
+CN,China,Çin Halk Cumhuriyeti,AS,Asia,Asya
+CO,Colombia,Kolombiya,SA,South America,Güney Amerika
+CR,Costa Rica,Kosta Rika,NA,North America,Kuzey Amerika
+CU,Cuba,Küba,NA,North America,Kuzey Amerika
+CV,Cape Verde,Yeşil Burun Adaları,AF,Africa,Afrika
+CW,Curacao,Curaçao,NA,North America,Kuzey Amerika
+CX,Christmas Island,Christmas Adası,AS,Asia,Asya
+CZ,Czech Republic,Çek Cumhuriyeti,EU,Europe,Avrupa
+DE,Germany,Almanya,EU,Europe,Avrupa
+DJ,Djibouti,Cibuti,AF,Africa,Afrika
+DK,Denmark,Danimarka,EU,Europe,Avrupa
+DM,Dominica,Dominika,NA,North America,Kuzey Amerika
+DO,Dominican Republic,Dominik Cumhuriyeti,NA,North America,Kuzey Amerika
+DZ,Algeria,Cezayir,AF,Africa,Afrika
+EC,Ecuador,Ekvador,SA,South America,Güney Amerika
+EE,Estonia,Estonya,EU,Europe,Avrupa
+EG,Egypt,Mısır,AF,Africa,Afrika
+EH,Western Sahara,Batı Sahra,AF,Africa,Afrika
+ER,Eritrea,Eritre,AF,Africa,Afrika
+ES,Spain,İspanya,EU,Europe,Avrupa
+ET,Ethiopia,Etiyopya,AF,Africa,Afrika
+FI,Finland,Finlandiya,EU,Europe,Avrupa
+FJ,Fiji,Fiji,OC,Oceania,Okyanusya
+FK,Falkland Islands,Falkland Adaları,SA,South America,Güney Amerika
+FM,Micronesia,Mikronezya,OC,Oceania,Okyanusya
+FO,Faroe Islands,Faroe Adaları,EU,Europe,Avrupa
+FR,France,Fransa,EU,Europe,Avrupa
+GA,Gabon,Gabon,AF,Africa,Afrika
+GB,United Kingdom,Birleşik Krallık,EU,Europe,Avrupa
+GD,Grenada,Grenada,NA,North America,Kuzey Amerika
+GE,Georgia,Gürcistan,AS,Asia,Asya
+GF,French Guiana,Fransız Guyanası,SA,South America,Güney Amerika
+GG,Guernsey,Guernsey,EU,Europe,Avrupa
+GH,Ghana,Gana,AF,Africa,Afrika
+GI,Gibraltar,Cebelitarık,EU,Europe,Avrupa
+GL,Greenland,Grönland,NA,North America,Kuzey Amerika
+GM,Gambia,Gambiya,AF,Africa,Afrika
+GN,Guinea,Gine,AF,Africa,Afrika
+GP,Guadeloupe,Guadeloupe,NA,North America,Kuzey Amerika
+GQ,Equatorial Guinea,Ekvator Ginesi,AF,Africa,Afrika
+GR,Greece,Yunanistan,EU,Europe,Avrupa
+GS,South Georgia and the South Sandwich Islands,Güney Georgia ve Güney Sandwich Adaları,AN,Antarctica,Antarktika
+GT,Guatemala,Guatemala,NA,North America,Kuzey Amerika
+GU,Guam,Guam,OC,Oceania,Okyanusya
+GW,Guinea-Bissau,Gine-Bissau,AF,Africa,Afrika
+GY,Guyana,Guyana,SA,South America,Güney Amerika
+HK,Hong Kong,Hong Kong,AS,Asia,Asya
+HM,Heard Island and McDonald Islands,Heard Adası ve McDonald Adaları,AN,Antarctica,Antarktika
+HN,Honduras,Honduras,NA,North America,Kuzey Amerika
+HR,Croatia,Hırvatistan,EU,Europe,Avrupa
+HT,Haiti,Haiti,NA,North America,Kuzey Amerika
+HU,Hungary,Macaristan,EU,Europe,Avrupa
+ID,Indonesia,Endonezya,AS,Asia,Asya
+IE,Ireland,İrlanda,EU,Europe,Avrupa
+IL,Israel,İsrail,AS,Asia,Asya
+IM,Isle of Man,Man Adası,EU,Europe,Avrupa
+IN,India,Hindistan,AS,Asia,Asya
+IO,British Indian Ocean Territory,Britanya Hint Okyanusu Toprakları,AS,Asia,Asya
+IQ,Iraq,Irak,AS,Asia,Asya
+IR,Iran,İran,AS,Asia,Asya
+IS,Iceland,İzlanda,EU,Europe,Avrupa
+IT,Italy,İtalya,EU,Europe,Avrupa
+JE,Jersey,Jersey,EU,Europe,Avrupa
+JM,Jamaica,Jamaika,NA,North America,Kuzey Amerika
+JO,Jordan,Ürdün,AS,Asia,Asya
+JP,Japan,Japonya,AS,Asia,Asya
+KE,Kenya,Kenya,AF,Africa,Afrika
+KG,Kyrgyzstan,Kırgızistan,AS,Asia,Asya
+KH,Cambodia,Kamboçya,AS,Asia,Asya
+KI,Kiribati,Kiribati,OC,Oceania,Okyanusya
+KKTC,Northern Cyprus,Kuzey Kıbrıs Türk Cumhuriyeti,EU,Europe,Avrupa
+KM,Comoros,Komorlar,AF,Africa,Afrika
+KN,Saint Kitts and Nevis,Saint Kitts ve Nevis,NA,North America,Kuzey Amerika
+KP,North Korea,Kuzey Kore,AS,Asia,Asya
+KR,South Korea,Güney Kore,AS,Asia,Asya
+KW,Kuwait,Kuveyt,AS,Asia,Asya
+KY,Cayman Islands,Cayman Adaları,NA,North America,Kuzey Amerika
+KZ,Kazakhstan,Kazakistan,AS,Asia,Asya
+LA,Laos,Laos,AS,Asia,Asya
+LB,Lebanon,Lübnan,AS,Asia,Asya
+LC,Saint Lucia,Saint Lucia,NA,North America,Kuzey Amerika
+LI,Liechtenstein,Lihtenştayn,EU,Europe,Avrupa
+LK,Sri Lanka,Sri Lanka,AS,Asia,Asya
+LR,Liberia,Liberya,AF,Africa,Afrika
+LS,Lesotho,Lesotho,AF,Africa,Afrika
+LT,Lithuania,Litvanya,EU,Europe,Avrupa
+LU,Luxembourg,Lüksemburg,EU,Europe,Avrupa
+LV,Latvia,Letonya,EU,Europe,Avrupa
+LY,Libya,Libya,AF,Africa,Afrika
+MA,Morocco,Fas,AF,Africa,Afrika
+MC,Monaco,Monako,EU,Europe,Avrupa
+MD,Moldova,Moldova,EU,Europe,Avrupa
+ME,Montenegro,Karadağ,EU,Europe,Avrupa
+MF,Saint Martin,Saint Martin,NA,North America,Kuzey Amerika
+MG,Madagascar,Madagaskar,AF,Africa,Afrika
+MH,Marshall Islands,Marshall Adaları,OC,Oceania,Okyanusya
+MK,Macedonia,Makedonya,EU,Europe,Avrupa
+ML,Mali,Mali,AF,Africa,Afrika
+MM,Myanmar,Myanmar,AS,Asia,Asya
+MN,Mongolia,Moğolistan,AS,Asia,Asya
+MO,Macau,Makao,AS,Asia,Asya
+MP,Northern Mariana Islands,Kuzey Mariana Adaları,OC,Oceania,Okyanusya
+MQ,Martinique,Martinique,NA,North America,Kuzey Amerika
+MR,Mauritania,Moritanya,AF,Africa,Afrika
+MS,Montserrat,Montserrat,NA,North America,Kuzey Amerika
+MT,Malta,Malta,EU,Europe,Avrupa
+MU,Mauritius,Mauritius,AF,Africa,Afrika
+MV,Maldives,Maldivler,AS,Asia,Asya
+MW,Malawi,Malavi,AF,Africa,Afrika
+MX,Mexico,Meksika,NA,North America,Kuzey Amerika
+MY,Malaysia,Malezya,AS,Asia,Asya
+MZ,Mozambique,Mozambik,AF,Africa,Afrika
+NA,Namibia,Namibya,AF,Africa,Afrika
+NC,New Caledonia,Yeni Kaledonya,OC,Oceania,Okyanusya
+NE,Niger,Nijer,AF,Africa,Afrika
+NF,Norfolk Island,Norfolk Adası,OC,Oceania,Okyanusya
+NG,Nigeria,Nijerya,AF,Africa,Afrika
+NI,Nicaragua,Nikaragua,NA,North America,Kuzey Amerika
+NL,Netherlands,Hollanda,EU,Europe,Avrupa
+NO,Norway,Norveç,EU,Europe,Avrupa
+NP,Nepal,Nepal,AS,Asia,Asya
+NR,Nauru,Nauru,OC,Oceania,Okyanusya
+NU,Niue,Niue,OC,Oceania,Okyanusya
+NZ,New Zealand,Yeni Zelanda,OC,Oceania,Okyanusya
+OM,Oman,Umman,AS,Asia,Asya
+PA,Panama,Panama,NA,North America,Kuzey Amerika
+PE,Peru,Peru,SA,South America,Güney Amerika
+PF,French Polynesia,Fransız Polinezyası,OC,Oceania,Okyanusya
+PG,Papua New Guinea,Papua Yeni Gine,OC,Oceania,Okyanusya
+PH,Philippines,Filipinler,AS,Asia,Asya
+PK,Pakistan,Pakistan,AS,Asia,Asya
+PL,Poland,Polonya,EU,Europe,Avrupa
+PM,Saint Pierre and Miquelon,Saint Pierre ve Miquelon,NA,North America,Kuzey Amerika
+PN,Pitcairn Islands,Pitcairn Adaları,OC,Oceania,Okyanusya
+PR,Puerto Rico,Porto Riko,NA,North America,Kuzey Amerika
+PS,Palestine,Filistin,AS,Asia,Asya
+PT,Portugal,Portekiz,EU,Europe,Avrupa
+PW,Palau,Palau,OC,Oceania,Okyanusya
+PY,Paraguay,Paraguay,SA,South America,Güney Amerika
+QA,Qatar,Katar,AS,Asia,Asya
+RE,Réunion,Réunion,AF,Africa,Afrika
+RO,Romania,Romanya,EU,Europe,Avrupa
+RS,Serbia,Sırbistan,EU,Europe,Avrupa
+RU,Russia,Rusya,EU,Europe,Avrupa
+RW,Rwanda,Ruanda,AF,Africa,Afrika
+SA,Saudi Arabia,Suudi Arabistan,AS,Asia,Asya
+SB,Solomon Islands,Solomon Adaları,OC,Oceania,Okyanusya
+SC,Seychelles,Seyşeller,AF,Africa,Afrika
+SD,Sudan,Sudan,AF,Africa,Afrika
+SE,Sweden,İsveç,EU,Europe,Avrupa
+SG,Singapore,Singapur,AS,Asia,Asya
+SH,Saint Helena,Saint Helena,AF,Africa,Afrika
+SI,Slovenia,Slovenya,EU,Europe,Avrupa
+SJ,Svalbard and Jan Mayen,Svalbard and Jan Mayen,EU,Europe,Avrupa
+SK,Slovakia,Slovakya,EU,Europe,Avrupa
+SL,Sierra Leone,Sierra Leone,AF,Africa,Afrika
+SM,San Marino,San Marino,EU,Europe,Avrupa
+SN,Senegal,Senegal,AF,Africa,Afrika
+SO,Somalia,Somali,AF,Africa,Afrika
+SR,Suriname,Surinam,SA,South America,Güney Amerika
+SS,South Sudan,Güney Sudan,AF,Africa,Afrika
+ST,São Tomé and Príncipe,São Tomé ve Príncipe,AF,Africa,Afrika
+SV,El Salvador,El Salvador,NA,North America,Kuzey Amerika
+SX,Sint Maarten,Sint Maarten,NA,North America,Kuzey Amerika
+SY,Syria,Suriye,AS,Asia,Asya
+SZ,Swaziland,Svaziland,AF,Africa,Afrika
+TC,Turks and Caicos Islands,Turks ve Caicos Adaları,NA,North America,Kuzey Amerika
+TD,Chad,Çad,AF,Africa,Afrika
+TF,French Southern Territories,Fransız Güney ve Antarktika Toprakları,AN,Antarctica,Antarktika
+TG,Togo,Togo,AF,Africa,Afrika
+TH,Thailand,Tayland,AS,Asia,Asya
+TJ,Tajikistan,Tacikistan,AS,Asia,Asya
+TK,Tokelau,Tokelau,OC,Oceania,Okyanusya
+TL,East Timor,Doğu Timor,OC,Oceania,Okyanusya
+TM,Turkmenistan,Türkmenistan,AS,Asia,Asya
+TN,Tunisia,Tunus,AF,Africa,Afrika
+TO,Tonga,Tonga,OC,Oceania,Okyanusya
+TR,Turkey,Türkiye,AS,Asia,Asya
+TT,Trinidad and Tobago,Trinidad ve Tobago,NA,North America,Kuzey Amerika
+TV,Tuvalu,Tuvalu,OC,Oceania,Okyanusya
+TW,Taiwan,Tayvan,AS,Asia,Asya
+TZ,Tanzania,Tanzanya,AF,Africa,Afrika
+UA,Ukraine,Ukrayna,EU,Europe,Avrupa
+UG,Uganda,Uganda,AF,Africa,Afrika
+UM,U.S. Minor Outlying Islands,U.S. Minor Outlying Islands,OC,Oceania,Okyanusya
+US,United States,Amerika Birleşik Devletleri,NA,North America,Kuzey Amerika
+UY,Uruguay,Uruguay,SA,South America,Güney Amerika
+UZ,Uzbekistan,Özbekistan,AS,Asia,Asya
+VA,Vatican City,Vatikan,EU,Europe,Avrupa
+VC,Saint Vincent and the Grenadines,Saint Vincent ve Grenadinler,NA,North America,Kuzey Amerika
+VE,Venezuela,Venezuela,SA,South America,Güney Amerika
+VG,British Virgin Islands,Britanya Virjin Adaları,NA,North America,Kuzey Amerika
+VI,U.S. Virgin Islands,ABD Virjin Adaları,NA,North America,Kuzey Amerika
+VN,Vietnam,Vietnam,AS,Asia,Asya
+VU,Vanuatu,Vanuatu,OC,Oceania,Okyanusya
+WF,Wallis and Futuna,Wallis ve Futuna Adaları,OC,Oceania,Okyanusya
+WS,Samoa,Samoa,OC,Oceania,Okyanusya
+XK,Kosovo,Kosova,EU,Europe,Avrupa
+YE,Yemen,Yemen,AS,Asia,Asya
+YT,Mayotte,Mayotte,AF,Africa,Afrika
+ZA,South Africa,Güney Afrika Cumhuriyeti,AF,Africa,Afrika
+ZM,Zambia,Zambiya,AF,Africa,Afrika
+ZW,Zimbabwe,Zimbabve,AF,Africa,Afrika
